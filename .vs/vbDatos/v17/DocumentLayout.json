@@ -1,0 +1,240 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jarlex\\source\\repos\\vbDatos\\vbDatos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4290F22D-4094-4FDF-971D-790A1269473D}|vbDatos\\vbDatos.vbproj|c:\\users\\jarlex\\source\\repos\\vbdatos\\vbdatos\\vbdatos\\frmproyeccion.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{4290F22D-4094-4FDF-971D-790A1269473D}|vbDatos\\vbDatos.vbproj|solutionrelative:vbdatos\\frmproyeccion.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4290F22D-4094-4FDF-971D-790A1269473D}|vbDatos\\vbDatos.vbproj|C:\\Users\\jarlex\\source\\repos\\vbDatos\\vbDatos\\vbdatos\\frmproyeccion.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{4290F22D-4094-4FDF-971D-790A1269473D}|vbDatos\\vbDatos.vbproj|solutionrelative:vbdatos\\frmproyeccion.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4290F22D-4094-4FDF-971D-790A1269473D}|vbDatos\\vbDatos.vbproj|C:\\Users\\jarlex\\source\\repos\\vbDatos\\vbDatos\\vbdatos\\frmmenu.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{4290F22D-4094-4FDF-971D-790A1269473D}|vbDatos\\vbDatos.vbproj|solutionrelative:vbdatos\\frmmenu.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4290F22D-4094-4FDF-971D-790A1269473D}|vbDatos\\vbDatos.vbproj|C:\\Users\\jarlex\\source\\repos\\vbDatos\\vbDatos\\vbdatos\\verempresas.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{4290F22D-4094-4FDF-971D-790A1269473D}|vbDatos\\vbDatos.vbproj|solutionrelative:vbdatos\\verempresas.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4290F22D-4094-4FDF-971D-790A1269473D}|vbDatos\\vbDatos.vbproj|C:\\Users\\jarlex\\source\\repos\\vbDatos\\vbDatos\\vbdatos\\serviciosprestadosdataset.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}",
+      "RelativeMoniker": "D:0:0:{4290F22D-4094-4FDF-971D-790A1269473D}|vbDatos\\vbDatos.vbproj|solutionrelative:vbdatos\\serviciosprestadosdataset.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4290F22D-4094-4FDF-971D-790A1269473D}|vbDatos\\vbDatos.vbproj|C:\\Users\\jarlex\\source\\repos\\vbDatos\\vbDatos\\vbdatos\\frmgraficos.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{4290F22D-4094-4FDF-971D-790A1269473D}|vbDatos\\vbDatos.vbproj|solutionrelative:vbdatos\\frmgraficos.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4290F22D-4094-4FDF-971D-790A1269473D}|vbDatos\\vbDatos.vbproj|C:\\Users\\jarlex\\source\\repos\\vbDatos\\vbDatos\\vbdatos\\frmgraficos.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{4290F22D-4094-4FDF-971D-790A1269473D}|vbDatos\\vbDatos.vbproj|solutionrelative:vbdatos\\frmgraficos.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4290F22D-4094-4FDF-971D-790A1269473D}|vbDatos\\vbDatos.vbproj|C:\\Users\\jarlex\\source\\repos\\vbDatos\\vbDatos\\vbdatos\\frmreporteservicios.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{4290F22D-4094-4FDF-971D-790A1269473D}|vbDatos\\vbDatos.vbproj|solutionrelative:vbdatos\\frmreporteservicios.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4290F22D-4094-4FDF-971D-790A1269473D}|vbDatos\\vbDatos.vbproj|C:\\Users\\jarlex\\source\\repos\\vbDatos\\vbDatos\\vbdatos\\frmmenu.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{4290F22D-4094-4FDF-971D-790A1269473D}|vbDatos\\vbDatos.vbproj|solutionrelative:vbdatos\\frmmenu.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4290F22D-4094-4FDF-971D-790A1269473D}|vbDatos\\vbDatos.vbproj|C:\\Users\\jarlex\\source\\repos\\vbDatos\\vbDatos\\vbdatos\\frmservicio.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{4290F22D-4094-4FDF-971D-790A1269473D}|vbDatos\\vbDatos.vbproj|solutionrelative:vbdatos\\frmservicio.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 14,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:137:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:138:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:139:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:140:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmProyeccion.vb",
+              "DocumentMoniker": "C:\\Users\\jarlex\\source\\repos\\vbDatos\\vbDatos\\vbDatos\\frmProyeccion.vb",
+              "RelativeDocumentMoniker": "vbDatos\\frmProyeccion.vb",
+              "ToolTip": "C:\\Users\\jarlex\\source\\repos\\vbDatos\\vbDatos\\vbDatos\\frmProyeccion.vb",
+              "RelativeToolTip": "vbDatos\\frmProyeccion.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADQAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-04-23T15:41:33.299Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmProyeccion.vb [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\jarlex\\source\\repos\\vbDatos\\vbDatos\\vbDatos\\frmProyeccion.vb",
+              "RelativeDocumentMoniker": "vbDatos\\frmProyeccion.vb",
+              "ToolTip": "C:\\Users\\jarlex\\source\\repos\\vbDatos\\vbDatos\\vbDatos\\frmProyeccion.vb [Dise\u00F1o]",
+              "RelativeToolTip": "vbDatos\\frmProyeccion.vb [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-04-23T15:30:13.197Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmMenu.vb",
+              "DocumentMoniker": "C:\\Users\\jarlex\\source\\repos\\vbDatos\\vbDatos\\vbDatos\\frmMenu.vb",
+              "RelativeDocumentMoniker": "vbDatos\\frmMenu.vb",
+              "ToolTip": "C:\\Users\\jarlex\\source\\repos\\vbDatos\\vbDatos\\vbDatos\\frmMenu.vb",
+              "RelativeToolTip": "vbDatos\\frmMenu.vb",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAswCEAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-04-23T15:33:57.162Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "frmMenu.vb [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\jarlex\\source\\repos\\vbDatos\\vbDatos\\vbDatos\\frmMenu.vb",
+              "RelativeDocumentMoniker": "vbDatos\\frmMenu.vb",
+              "ToolTip": "C:\\Users\\jarlex\\source\\repos\\vbDatos\\vbDatos\\vbDatos\\frmMenu.vb [Dise\u00F1o]",
+              "RelativeToolTip": "vbDatos\\frmMenu.vb [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-04-23T15:33:22.289Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "frmReporteServicios.vb",
+              "DocumentMoniker": "C:\\Users\\jarlex\\source\\repos\\vbDatos\\vbDatos\\vbDatos\\frmReporteServicios.vb",
+              "RelativeDocumentMoniker": "vbDatos\\frmReporteServicios.vb",
+              "ToolTip": "C:\\Users\\jarlex\\source\\repos\\vbDatos\\vbDatos\\vbDatos\\frmReporteServicios.vb",
+              "RelativeToolTip": "vbDatos\\frmReporteServicios.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-04-23T06:17:39.609Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "frmGraficos.vb",
+              "DocumentMoniker": "C:\\Users\\jarlex\\source\\repos\\vbDatos\\vbDatos\\vbDatos\\frmGraficos.vb",
+              "RelativeDocumentMoniker": "vbDatos\\frmGraficos.vb",
+              "ToolTip": "C:\\Users\\jarlex\\source\\repos\\vbDatos\\vbDatos\\vbDatos\\frmGraficos.vb",
+              "RelativeToolTip": "vbDatos\\frmGraficos.vb",
+              "ViewState": "AgIAABoAAAAAAAAAAAAwwAYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-04-23T01:56:52.059Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "frmGraficos.vb [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\jarlex\\source\\repos\\vbDatos\\vbDatos\\vbDatos\\frmGraficos.vb",
+              "RelativeDocumentMoniker": "vbDatos\\frmGraficos.vb",
+              "ToolTip": "C:\\Users\\jarlex\\source\\repos\\vbDatos\\vbDatos\\vbDatos\\frmGraficos.vb [Dise\u00F1o]",
+              "RelativeToolTip": "vbDatos\\frmGraficos.vb [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-04-23T01:56:47.265Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ServiciosPrestadosDataSet.xsd",
+              "DocumentMoniker": "C:\\Users\\jarlex\\source\\repos\\vbDatos\\vbDatos\\vbDatos\\ServiciosPrestadosDataSet.xsd",
+              "RelativeDocumentMoniker": "vbDatos\\ServiciosPrestadosDataSet.xsd",
+              "ToolTip": "C:\\Users\\jarlex\\source\\repos\\vbDatos\\vbDatos\\vbDatos\\ServiciosPrestadosDataSet.xsd",
+              "RelativeToolTip": "vbDatos\\ServiciosPrestadosDataSet.xsd",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003579|",
+              "WhenOpened": "2025-04-23T01:22:41.567Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "verEmpresas.vb [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\jarlex\\source\\repos\\vbDatos\\vbDatos\\vbDatos\\verEmpresas.vb",
+              "RelativeDocumentMoniker": "vbDatos\\verEmpresas.vb",
+              "ToolTip": "C:\\Users\\jarlex\\source\\repos\\vbDatos\\vbDatos\\vbDatos\\verEmpresas.vb [Dise\u00F1o]",
+              "RelativeToolTip": "vbDatos\\verEmpresas.vb [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-04-13T06:00:47.65Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "frmServicio.vb [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\jarlex\\source\\repos\\vbDatos\\vbDatos\\vbDatos\\frmServicio.vb",
+              "RelativeDocumentMoniker": "vbDatos\\frmServicio.vb",
+              "ToolTip": "C:\\Users\\jarlex\\source\\repos\\vbDatos\\vbDatos\\vbDatos\\frmServicio.vb [Dise\u00F1o]",
+              "RelativeToolTip": "vbDatos\\frmServicio.vb [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-04-13T06:00:38.528Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
